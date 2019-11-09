@@ -29,7 +29,7 @@ Check the path
 
     which kubectl
 
-    /c/Program Files/Docker/Docker/Resources/bin/kubectl
+    /c/ProgramData/chocolatey/bin/kubectl
 
 ## Install minikube
 
